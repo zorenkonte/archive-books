@@ -10420,7 +10420,18 @@ header.masthead .masthead-heading {
 }
 .team-member h4 {
   margin-top: 1.5rem;
+  font-size: 1.3rem;
   margin-bottom: 0;
+}
+
+.contact-label {
+  color: #fec503;
+}
+
+.contact-text {
+  color: #ffb54d;
+  margin-left: .5rem;
+  font-style: italic;
 }
 
 section#contact {
